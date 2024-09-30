@@ -1,7 +1,7 @@
 # Student Management System
 
 ## Overview
-The School Management System is a comprehensive Python-based application designed to manage both student and teacher information efficiently. It allows users to store, search, update, and delete records of students and teachers. The system is built with a user-friendly interface using Tkinter, and it connects to a MySQL database to handle data storage. This project is ideal for schools or institutions looking for a streamlined solution to manage their data digitally.
+The Student Management System is a comprehensive Python-based application designed to manage both student and teacher information efficiently. It allows users to store, search, update, and delete records of students and teachers. The system is built with a user-friendly interface using Tkinter, and it connects to a MySQL database to handle data storage. This project is ideal for schools or institutions looking for a streamlined solution to manage their data digitally.
 
 ## Features
 * Student Management: Add, search, update, and delete student information such as roll number, name, contact details, and more.
